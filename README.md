@@ -8,7 +8,7 @@
   <img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href = 'https://t.me/bdmitrys>
+<a href = 'https://t.me/bdmitrys'>
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
