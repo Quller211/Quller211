@@ -21,5 +21,5 @@
 
 [![codewars](https://www.codewars.com/users/Quller/badges/micro)](https://www.codewars.com/users/Quller)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Quller&theme=dark)](https://github.com/Quller/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Quller&theme=dark)](https://leetcode.com/u/Quller/)
 
