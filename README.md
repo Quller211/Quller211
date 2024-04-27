@@ -16,10 +16,16 @@
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-
-Статистика:
+Обучение:
 
 [![codewars](https://www.codewars.com/users/Quller/badges/micro)](https://www.codewars.com/users/Quller)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Quller&theme=dark)](https://leetcode.com/u/Quller/)
+
+
+<img src = "https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low">
+
+<img src = "https://stepik.org/certificate/b22751e0810b51fbe5335f37c75d85fedd7ee3c4.png?resolution=low">
+
+<img src = "https://stepik.org/certificate/03cd7aaefb15ca60cb4620800af0895f39dfc18c.png?resolution=low">
 
