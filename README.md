@@ -49,5 +49,5 @@
 
 <img src = "https://stepik.org/certificate/03cd7aaefb15ca60cb4620800af0895f39dfc18c.png?resolution=low">
 
-<img src = "https://lab.karpov.courses/certificate/e74f48b3-9c05-45d2-a02f-213582bf4431/">
+<img src = "https://prnt.sc/8F3g-H3gbWTA">
 
