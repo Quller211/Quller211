@@ -40,7 +40,7 @@
 
 [![codewars](https://www.codewars.com/users/Quller/badges/micro)](https://www.codewars.com/users/Quller)
 
-![Leetcode Stats](https://leetcode.com/u/Quller/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Quller?theme=dark&font=KoHo&ext=contest)](https://leetcode.com/Quller)
 
 
 
