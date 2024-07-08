@@ -1,3 +1,28 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content img {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 ### Привет 👋, это Босов Дмитрий!
 
 <hr>
@@ -42,19 +67,18 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Quller&theme=dark)](https://leetcode.com/u/Quller/)
 
-<form>
-<select size="3" multiple name="hero[]">
-    <option></option>
-    <option value="Чебурашка"><img src = "https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png"></option>
-    <option selected value="Крокодил Гена">Крокодил Гена</option>
-    <option value="Шапокляк">Шапокляк</option>
-    <option value="Крыса Лариса">Крыса Лариса</option>
-</select></p>
-</form>
+
+<div class="dropdown">
+  <button class="dropbtn">Выберите картинку</button>
+  <div class="dropdown-content">
+    <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" alt="Картинка 1">
+    <img src="https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low" alt="Картинка 2">
+    <img src="image3.jpg" alt="Картинка 3">
+  </div>
+</div>
 
 
-
-<img src = "https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low">
+<img src = "">
 
 <img src = "https://stepik.org/certificate/b22751e0810b51fbe5335f37c75d85fedd7ee3c4.png?resolution=low">
 
