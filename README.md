@@ -1,17 +1,6 @@
-<head>
-<style>
-  .dropdown {
-  position: relative;
-  display: inline-block;
-  }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+  
 }
 
 .dropdown-content img {
@@ -24,8 +13,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
-  </style>
-  </head>
+
 
 ### Привет 👋, это Босов Дмитрий!
 
@@ -72,9 +60,9 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Quller&theme=dark)](https://leetcode.com/u/Quller/)
 
 
-<div class="dropdown">
+<div class="dropdown" style = "position: relative; display: inline-block;">
   <button class="dropbtn">Выберите картинку</button>
-  <div class="dropdown-content">
+  <div class="dropdown-content" style = "display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;">
     <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" alt="Картинка 1">
     <img src="https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low" alt="Картинка 2">
     <img src="https://stepik.org/certificate/b22751e0810b51fbe5335f37c75d85fedd7ee3c4.png?resolution=low" alt="Картинка 3">
