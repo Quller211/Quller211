@@ -1,7 +1,8 @@
-.dropdown {
+<style>
+  .dropdown {
   position: relative;
   display: inline-block;
-}
+  }
 
 .dropdown-content {
   display: none;
@@ -22,6 +23,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+  </style>
 
 ### Привет 👋, это Босов Дмитрий!
 
