@@ -38,7 +38,6 @@
 
 <a href = 'https://public.tableau.com/app/profile/dmitry.bosov/vizzes'>Проекты Tableau</a>
 
-[![codewars](https://www.codewars.com/users/Quller/badges/micro)](https://www.codewars.com/users/)
 ![Codewars](https://github.r2v.ch/codewars?user=Quller)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Quller?theme=dark&font=KoHo&ext=contest)](https://leetcode.com/Quller)
