@@ -1,3 +1,4 @@
+<head>
 <style>
   .dropdown {
   position: relative;
@@ -24,6 +25,7 @@
   display: block;
 }
   </style>
+  </head>
 
 ### Привет 👋, это Босов Дмитрий!
 
