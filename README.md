@@ -46,10 +46,11 @@
 
 <details>
   <summary>Сертификаты</summary>
-  <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" alt="Картинка 1">
-  <img src="https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low" alt="Картинка 2">
-  <img src="https://stepik.org/certificate/b22751e0810b51fbe5335f37c75d85fedd7ee3c4.png?resolution=low" alt="Картинка 3">
-  <img src="https://stepik.org/certificate/03cd7aaefb15ca60cb4620800af0895f39dfc18c.png?resolution=low" alt="Картинка 3">
+  <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png">
+  <img src="https://lab.karpov.courses/certificate/b715ed64-9bc9-46f3-a242-289d4a2a6190/">
+  <img src="https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low">
+  <img src="https://stepik.org/certificate/b22751e0810b51fbe5335f37c75d85fedd7ee3c4.png?resolution=low">
+  <img src="https://stepik.org/certificate/03cd7aaefb15ca60cb4620800af0895f39dfc18c.png?resolution=low">
 </details>
 
 
