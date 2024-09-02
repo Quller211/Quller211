@@ -2,7 +2,7 @@
 
 <hr>
 
-Имею техническое высшее образование. Самостоятельно изучаю сферу аналитики данных. Имею несколько проектов - с ними можно ознакомиться ниже. На данный момент в поисках работы для решения реальных задач. А пока повышаю навыки с помощью курсов, видео-уроков, митапов, вебинаров, хакатонов, leetcode.
+Имею техническое высшее образование. Самостоятельно изучаю сферу аналитики данных. На данный момент в поиске работы для решения реальных задач. А пока повышаю навыки с помощью курсов, видео-уроков, митапов, вебинаров, хакатонов, leetcode.
 
 <hr>
 
@@ -34,10 +34,6 @@
 
 </div>
 
-### Обучение:
-
-<a href = 'https://public.tableau.com/app/profile/dmitry.bosov/vizzes'>Проекты Tableau</a>
-
 [![Codewars](https://github.r2v.ch/codewars?user=Quller)](https://www.codewars.com/users/Quller)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Quller?theme=dark&font=KoHo&ext=contest)](https://leetcode.com/Quller)
@@ -53,9 +49,12 @@
   <img src="https://stepik.org/certificate/03cd7aaefb15ca60cb4620800af0895f39dfc18c.png?resolution=low">
 </details>
 
+### Мои проекты
+
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn, matplotlib,scipy,requests|
-|Проект 2 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn|
+|Проект 2 E-commerce  (__[github](https://github.com/Quller211/E-commerce_project)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проект 3   (__[github]()__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
 |Проект [Tableau](https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap)|Построение дашборда на готовых [данных](https://disk.yandex.ru/d/mrW0VkCPtW-xiA)|Tableau|
 
