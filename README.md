@@ -57,5 +57,5 @@
 |----------------|-----------------|-----|
 |Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn, matplotlib,scipy,requests|
 |Проект 2 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проект [Tableu](https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap)|Построение дашборда на готовых данных.|Tableu|
+|Проект [Tableau](https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap)|Построение дашборда на готовых [данных](https://disk.yandex.ru/d/mrW0VkCPtW-xiA)|Tableau|
 
