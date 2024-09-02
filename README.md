@@ -55,10 +55,7 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|
-Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
-|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
-|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
-|Проект 4 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
+|Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn, matplotlib,scipy,requests|
+|Проект 2 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проект Tableu  https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap|Построение дашборда на готовых данных.|Tableu|
 
