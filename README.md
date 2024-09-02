@@ -2,7 +2,7 @@
 
 <hr>
 
-Имею техническое высшее образование. Самостоятельно изучаю сферу аналитики данных. На данный момент в поиске работы для решения реальных задач. А пока повышаю навыки с помощью курсов, видео-уроков, митапов, вебинаров, хакатонов, leetcode.
+Имею техническое высшее образование. Самостоятельно изучаю сферу аналитики данных. На данный момент в поиске работы для решения реальных задач. Повышаю навыки с помощью курсов, видео-уроков, митапов, вебинаров, хакатонов, leetcode.
 
 <hr>
 
@@ -55,6 +55,6 @@
 |----------------|-----------------|-----|
 |Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn|
 |Проект 2 E-commerce  (__[github](https://github.com/Quller211/E-commerce_project)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проект 3   (__[github]()__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проект 3 Анализ пользования разных медиа. Визуализацией в [DataLens](https://datalens.yandex.cloud/011qnron6hdmn-dashbord-mediascope)  (__[github](https://github.com/Quller211/Media_analysis/tree/main)__)|Применение статистических методов анализа (тест Левена, дисперсионный анализ Уэлча, t-Test, многофакторный дисперсионный анализ)|pandas,seaborn,scipy,pingouin,numpy|
 |Проект [Tableau](https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap)|Построение дашборда на готовых [данных](https://disk.yandex.ru/d/mrW0VkCPtW-xiA)|Tableau|
 
