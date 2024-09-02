@@ -34,7 +34,7 @@
 
 </div>
 
-[![Codewars](https://github.r2v.ch/codewars?user=Quller)](https://www.codewars.com/users/Quller)
+[![Codewars](https://github-readme-stats.vercel.app/api/top-langs/?username=Quller)](https://www.codewars.com/users/Quller)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Quller?theme=dark&font=KoHo&ext=contest)](https://leetcode.com/Quller)
 
@@ -55,6 +55,6 @@
 |----------------|-----------------|-----|
 |Проект 1  Анализ мобильной игры "Plants and Gardens"  (__[github](https://github.com/Quller211/Plants_and_Gardens_analysis)__)|Расчет продуктовых метрик (ARPPU, ARPU, CR, retention rate). Проверка гипотез, анализ результатов А/B-теста (T-test, Bootstrap). Предложены метрики для оценки ивента в игре.|pandas,numpy,seaborn|
 |Проект 2 E-commerce  (__[github](https://github.com/Quller211/E-commerce_project)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проект 3 Анализ пользования разных медиа. Визуализацией в [DataLens](https://datalens.yandex.cloud/011qnron6hdmn-dashbord-mediascope)  (__[github](https://github.com/Quller211/Media_analysis/tree/main)__)|Применение статистических методов анализа (тест Левена, дисперсионный анализ Уэлча, t-Test, многофакторный дисперсионный анализ)|pandas,seaborn,scipy,pingouin,numpy|
+|Проект 3 Анализ пользования разных медиа. (__[github](https://github.com/Quller211/Media_analysis/tree/main)__). Визуализацией в [DataLens](https://datalens.yandex.cloud/011qnron6hdmn-dashbord-mediascope).|Применение статистических методов анализа (тест Левена, дисперсионный анализ Уэлча, t-Test, многофакторный дисперсионный анализ)|pandas,seaborn,scipy,pingouin,numpy|
 |Проект [Tableau](https://public.tableau.com/app/profile/dmitry.bosov/viz/Project_17114759578040/Reservationsmap)|Построение дашборда на готовых [данных](https://disk.yandex.ru/d/mrW0VkCPtW-xiA)|Tableau|
 
