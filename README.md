@@ -4,17 +4,11 @@
 
 Работаю аналитиком данных в отделе аудита. В свободное время пишу код и разбираюсь в данных.
 
-Стек: Python (Pandas, NumPy, Scikit-learn), SQL, статистический анализ.
-
 В репозиториях — мои учебные и pet-проекты по аналитике, автоматизации и машинному обучению.
 
 <hr>
 
 ### Для связи со мной:
-
-<a href = 'https://discordapp.com/users/152757757169238016/'>
-  <img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
 
 <a href = 'https://t.me/bdmitrys'>
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -34,7 +28,8 @@
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+
 
 </div>
 
