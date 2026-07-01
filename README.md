@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/NiFi-white" title="NiFi" alt="NiFi" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/NIFI-white?style=for-the-badge" title="NiFi" alt="NiFi" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium" title="Selenium" alt="Selenium" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn" title="Scikitlearn" alt="Scikitlearn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black" title="Kafka" alt="Kafka" height="40"/>&nbsp;
@@ -49,6 +49,7 @@
 
 <details>
   <summary>Сертификаты</summary>
+  <img src="https://raw.githubusercontent.com/Quller211/Quller211/refs/heads/main/ML%20Basic.png">
   <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png">
   <img src="https://raw.githubusercontent.com/Quller211/Quller211/main/%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20SQL.png">
   <img src="https://stepik.org/certificate/dc3adbda56795c558d0a313ad3ac090106ec9890.png?resolution=low">
