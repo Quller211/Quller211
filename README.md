@@ -26,9 +26,17 @@
   <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/NiFi-white" title="NiFi" alt="NiFi" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium" title="Selenium" alt="Selenium" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn" title="Scikitlearn" alt="Scikitlearn" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black" title="Kafka" alt="Kafka" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PySpark-white?style=for-the-badge" title="PySpark" alt="PySpark" height="40"/>&nbsp;
+  
+  
+  
 
 
 </div>
